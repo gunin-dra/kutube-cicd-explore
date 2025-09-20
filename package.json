@@ -1,0 +1,23 @@
+{
+  "name": "kutube-cicd-explore",
+  "version": "1.0.0",
+  "description": "explore cicd github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunin-dra/kutube-cicd-explore.git"
+  },
+  "author": "gipsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunin-dra/kutube-cicd-explore/issues"
+  },
+  "homepage": "https://github.com/gunin-dra/kutube-cicd-explore#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
